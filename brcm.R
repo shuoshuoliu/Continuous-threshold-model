@@ -1,3 +1,4 @@
+##This was updated on 10/17/19 for test.
 library(survival)
 library(MASS)
 ###  generic function for Biomarker Rectifier Continuous Models(brcm) using the
